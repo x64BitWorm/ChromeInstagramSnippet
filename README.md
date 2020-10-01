@@ -2,6 +2,8 @@
 analysis of instagram subscribers via chrome browser
 
 how to use it?
+first download the file "instagram_followers.js" above
+
 1. open chrome browser and press f12
 ![ ](https://github.com/x64BitWorm/ChromeInstagramSnippet/blob/main/help/1.png)
 
@@ -14,7 +16,7 @@ how to use it?
 4. drag the previously downloaded file into the code area
 ![ ](https://github.com/x64BitWorm/ChromeInstagramSnippet/blob/main/help/4.png)
 
-press CTRL+S and then f12 to close dev tab
+press CTRL+S and then f12 to close dev tab. 
 Hooray! everything is ready to use :)
 
 5. open the main page of any instagram account (your account, or any open account, or closed but the one to which you are subscribed, also the account should not have more than 15,000 subscribers)
